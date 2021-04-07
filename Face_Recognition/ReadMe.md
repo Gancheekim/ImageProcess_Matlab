@@ -34,6 +34,6 @@
 
 
 #### for other results:
-<img src="https://user-images.githubusercontent.com/55738449/113847966-91c92a80-97ca-11eb-8cc4-792b5835a409.jpg" width="320" height="440"> <img src="https://user-images.githubusercontent.com/55738449/113848010-9c83bf80-97ca-11eb-82d9-cf9d772ba433.jpgg" width="320" height="440"> 
+<img src="https://user-images.githubusercontent.com/55738449/113847966-91c92a80-97ca-11eb-8cc4-792b5835a409.jpg" width="320" height="440"> <img src="https://user-images.githubusercontent.com/55738449/113848177-c9d06d80-97ca-11eb-9583-cd24fa6676b4.png" width="320" height="440"> 
 
 
