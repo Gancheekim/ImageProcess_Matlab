@@ -15,8 +15,8 @@
 #### week 2: input testing image into the model and obtain the skin-like detection. (labeling: 0: non-skin, 1: skin)
 - for any region that is too small, we discard the region as it may be noise to our prediction
 - apply morphology closing for better result
-- 
-<img src="https://user-images.githubusercontent.com/55738449/113845635-4e6dbc80-97c8-11eb-89e4-a76650fa127f.jpg" width="350" height="460"><img src="https://user-images.githubusercontent.com/55738449/113849586-3e57dc00-97cc-11eb-96ae-aa771010e35e.png" width="350" height="460">
+
+<img src="https://user-images.githubusercontent.com/55738449/113845635-4e6dbc80-97c8-11eb-89e4-a76650fa127f.jpg" width="360" height="460"><img src="https://user-images.githubusercontent.com/55738449/113849586-3e57dc00-97cc-11eb-96ae-aa771010e35e.png" width="280" height="380">
 
 #### week 3: for the regions detected, we apply PCA estimation of data as ellipse, then we measure the similarity between the region and the estimated ellipse.
 - for any region that score under 70%, we discard it.
