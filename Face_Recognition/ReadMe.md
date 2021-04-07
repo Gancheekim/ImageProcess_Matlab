@@ -34,6 +34,12 @@
 
 
 #### for other results:
-<img src="https://user-images.githubusercontent.com/55738449/113847966-91c92a80-97ca-11eb-8cc4-792b5835a409.jpg" width="320" height="440"> <img src="https://user-images.githubusercontent.com/55738449/113848177-c9d06d80-97ca-11eb-9583-cd24fa6676b4.png" width="320" height="440"> 
+<img src="https://user-images.githubusercontent.com/55738449/113847966-91c92a80-97ca-11eb-8cc4-792b5835a409.jpg" width="400" height="440"> <img src="https://user-images.githubusercontent.com/55738449/113848177-c9d06d80-97ca-11eb-9583-cd24fa6676b4.png" width="400" height="440"> 
+
+<img src="https://user-images.githubusercontent.com/55738449/113848404-04d2a100-97cb-11eb-8788-ed244a86462c.jpg" width="400" height="440"> <img src="https://user-images.githubusercontent.com/55738449/113848453-10be6300-97cb-11eb-905c-31f0de268822.png" width="400" height="440"> 
+
+<img src="https://user-images.githubusercontent.com/55738449/113848596-3e0b1100-97cb-11eb-96ce-6d8c2a34b430.jpg" width="400" height="440"> <img src="https://user-images.githubusercontent.com/55738449/113848803-6abf2880-97cb-11eb-8078-48a5ae7eea96.png" width="400" height="440"> 
+
+
 
 
