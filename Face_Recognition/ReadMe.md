@@ -4,4 +4,18 @@
 - you can contact me via my email: b07901133@ntu.edu.tw   to share your commend with me! many thanks
 
 ## code description:
-- Main code : 
+- Main code : Main_code.m, you can run this code to do all things.
+- the project has been working around 6 weeks, so i separate the skeleton code into 6 parts, which is week1.m to week6.m
+
+### brief project process:
+- week 1: collect data and build a svm model to classify the skin-like pixel of image (input feature of model: R,G,B matrix)
+- week 2: input testing image into the model and obtain the skin-like detection. (labeling: 0: non-skin, 1: skin)
+-         for any region that is too small, we discard the region as it may be noise to our prediction
+-         apply morphology closing for better result
+- week 3: for the regions detected, we apply PCA estimation of data as ellipse, then we measure the similarity between the region and the estimated ellipse.
+-         for any region that score under 70%, we discard it.
+- week 4: on the result of week3, we apply linear combination of YCbCr to obtain our eyemap, and find the potential candidate(location) of eyes.
+- week 5: linear combination of YCbCr to obtain the mouth map of our detected result, and find the possible-center location of our mouth.
+- week 6: eyes-mouth pair verification according to some rules we created(most are according to the geometry characteristic of face that we observed)
+-         for any pairs of eye and mouth that satiesfies all the rules, we conclude that the result is a human-face,
+-         we return the output image as ellipse-masking of human-face, that has red-dot near the iris(eye), and green-dot near the mouth.
