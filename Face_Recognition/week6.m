@@ -54,7 +54,7 @@ for ellipse_iter = 1:size(record_rotate_angle,2)
                 end
 
                 ang_r2 = abs(angle_of_height - angle_of_princ_axis);
-                ang_r2
+                %ang_r2
                 
                 if  ang_r2 <= 13 || ( ang_r2 >= 80 && ang_r2 <= 100 ) % pass rule 2!
                     disp('pass r2')
@@ -64,7 +64,7 @@ for ellipse_iter = 1:size(record_rotate_angle,2)
                     
                     
                     ang_r3 = abs(angle_of_height - angle_of_base);
-                    ang_r3
+                    %ang_r3
 
                     if ang_r3 >= 77 && ang_r3 <= 103 % pass rule 3!
                         % disp('pass r3')
