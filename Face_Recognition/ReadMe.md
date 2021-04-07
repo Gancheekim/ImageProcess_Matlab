@@ -7,6 +7,10 @@
 - Main code : Main_code.m, you can run this code to do all things.
 - the project has been working around 6 weeks, so i separate the skeleton code into 6 parts, which is week1.m to week6.m
 
+## Future on-going work:
+- am working on bugs from some special cases, and building a model that can abtract facial feature from the detected face result
+- Goal: able to classify human faces as different character.
+
 ### brief project process:
 #### week 1: collect data and build a svm model to classify the skin-like pixel of image (input feature of model: R,G,B matrix)
 - image source: myself, please do not use my photo for any profit use, many thanks.
