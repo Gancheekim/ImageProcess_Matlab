@@ -31,3 +31,9 @@
 - for any pairs of eye and mouth that satiesfies all the rules, we conclude that the result is a human-face,
 - we return the output image as ellipse-masking of human-face, that has red-dot near the iris(eye), and green-dot near the mouth.
 <img src="https://user-images.githubusercontent.com/55738449/113845920-912f9480-97c8-11eb-9315-331fcdf2437e.png" width="320" height="440">
+
+
+#### for other results:
+<img src="https://user-images.githubusercontent.com/55738449/113847966-91c92a80-97ca-11eb-8cc4-792b5835a409.jpg" width="320" height="440"> <img src="https://user-images.githubusercontent.com/55738449/113848010-9c83bf80-97ca-11eb-82d9-cf9d772ba433.jpgg" width="320" height="440"> 
+
+
